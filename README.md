@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile!;I'm+a+Developer+%7C+Student" alt="Typing SVG" />
+</div>
 
-<!--
-**0xF45A1/0xF45A1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xF45A1&show_icons=true&theme=radical" alt="github stats" />
+</div>
 
-Here are some ideas to get you started:
+## 🛠️ Programming Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/0xF45A1/0xF45A1/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
